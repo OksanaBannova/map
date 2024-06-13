@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4127962hxug76bep?svg=true)](https://ci.appveyor.com/project/OksanaBannova/map)
+
 ## Map
 
 ### Легенда
